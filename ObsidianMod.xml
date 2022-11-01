@@ -3,7 +3,7 @@
 Notepad++ Custom Style
 
   Style name:    ObsidianMod v2
-      Author:    Joni Eskelinen
+      Author:    Originally - Joni Eskelinen
         Date:    2009-04-06 (last changed 2013-04-23)
    Languages:    php, html, css, xml, javascript, python, sql, c, c++, 
                    assembly, bash, batch, lua at least for detail. Everything else more or less...
@@ -121,7 +121,7 @@ Notepad++ Custom Style
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FF4AA5" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -139,7 +139,7 @@ Notepad++ Custom Style
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FF4AA5" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -157,7 +157,7 @@ Notepad++ Custom Style
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="6" fgColor="EC7600" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FF4AA5" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -728,8 +728,8 @@ Notepad++ Custom Style
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="9" fgColor="6C788C" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="5" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="FF4AA5" bgColor="293134" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="SINGLESTRING" styleID="7" fgColor="FF4AA5" bgColor="293134" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
+            <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="SINGLESTRING" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
             <WordsStyle name="TAG" styleID="1" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="TAGEND" styleID="11" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="428CD7" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
