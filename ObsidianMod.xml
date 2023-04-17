@@ -136,8 +136,8 @@ Notepad++ Custom Style
         <LexerType name="cpp" desc="C++" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">npos begin end size insert erase clear push_back emplace_back sleep_for bind push make_shared make_unique get at pop_back pop_front remove capacity find find_if abs substr length back duration_cast now count strcmp override move notify_all notify_one fetch_add wait unlock async launch wait_for</WordsStyle>
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="5E9DDD" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const </WordsStyle>
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">npos begin end size insert erase clear push_back emplace_back sleep_for bind push make_shared make_unique get at pop_back pop_front remove capacity find find_if abs substr length back duration_cast now count strcmp override move notify_all notify_one fetch_add wait unlock async launch wait_for valid hardware_concurrency</WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="5E9DDD" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const</WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -781,9 +781,9 @@ Notepad++ Custom Style
         <WidgetStyle name="Global override" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="8" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="E0E2E4" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="8" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="394448" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="00FF40" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFFF00" bgColor="000000" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FB0000" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="00FF40" fgColor="0080C0" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="A8B6BB" fgColor="0080C0" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="646400" fgColor="C00000" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="00FF00" bgColor="6699CC" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435" fontSize="" fontStyle="0" />
