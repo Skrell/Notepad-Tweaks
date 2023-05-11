@@ -136,8 +136,8 @@ Notepad++ Custom Style
         <LexerType name="cpp" desc="C++" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">npos begin end size insert erase clear push_back emplace_back sleep_for bind push make_shared make_unique get at pop_back pop_front remove capacity find find_if abs substr length back duration_cast now count strcmp override move notify_all notify_one fetch_add wait unlock async launch wait_for valid hardware_concurrency</WordsStyle>
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="5E9DDD" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const</WordsStyle>
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">npos begin end size insert erase clear push_back emplace_back sleep_for bind push make_shared make_unique get at pop_back pop_front remove capacity find find_if abs substr length back duration_cast now count strcmp override move notify_all notify_one fetch_add wait unlock async launch wait_for valid hardware_concurrency set_value static_pointer_cast dynamic_pointer_cast c_str empty get_future lock</WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="5E9DDD" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const packaged_task promise</WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF8409" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -192,7 +192,7 @@ Notepad++ Custom Style
             <WordsStyle name="STRING D" styleID="2" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING L" styleID="3" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING R" styleID="4" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMAND" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="COMMAND" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">gtest_discover_tests FetchContent_MakeAvailable FetchContent_Declare</WordsStyle>
             <WordsStyle name="PARAMETER" styleID="6" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="7" fgColor="5E9DDD" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="USER DEFINED" styleID="8" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
@@ -793,11 +793,11 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold active" styleID="0" fgColor="6A8088" fontStyle="0" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="343F41" bgColor="343F41" fontSize="" fontStyle="0" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="55676F" bgColor="3476A3" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="EC0076" fgColor="C0C0C0" fontStyle="0" />
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="646400" fgColor="C0C0C0" fontStyle="0" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF00FF" fgColor="C0C0C0" fontSize="" fontStyle="1" />
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="AEC4CE" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00E811" fgColor="E0E2E4" fontStyle="0" />
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FF0080" fgColor="E0E2E4" fontStyle="0" />
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FF1A8C" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="00A4F2" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="A83EFF" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80" fontSize="" fontStyle="0" />
