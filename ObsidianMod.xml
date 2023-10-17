@@ -752,11 +752,11 @@ Notepad++ Custom Style
             <WordsStyle name="ERROR" styleID="8" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
-            <WordsStyle name="Search Header" styleID="1" fgColor="FFFFFF" bgColor="3A4649" fontName="Segoe UI Semibold" fontStyle="0" fontSize="9" />
+            <WordsStyle name="Search Header" styleID="1" fgColor="FFFFFF" bgColor="3A4649" fontName="Segoe UI Semibold" fontStyle="0" fontSize="10" />
             <WordsStyle name="File Header" styleID="2" fgColor="FFCD22" bgColor="2F383C" fontName="Segoe UI Semibold" fontStyle="0" fontSize="10" />
             <WordsStyle name="Line Number" styleID="3" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Hit Word" styleID="4" fgColor="00FF00" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="" />
-            <WordsStyle name="Selected Line" styleID="5" fgColor="FF8409" bgColor="2F393C" fontName="" fontStyle="1" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="Hit Word" styleID="4" fgColor="00FF00" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="9" />
+            <WordsStyle name="Selected Line" styleID="5" fgColor="FF8409" bgColor="2F393C" fontName="Consolas" fontStyle="1" fontSize="">if else for while</WordsStyle>
             <WordsStyle name="Current line background colour" styleID="6" bgColor="266387" fgColor="E0E2E4" fontSize="" fontStyle="0">bool long int char</WordsStyle>
         </LexerType>
         <LexerType name="json" desc="JSON" ext="">
@@ -784,7 +784,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFFF00" bgColor="000000" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FB0000" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="A8B6BB" fgColor="0080C0" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="646400" fgColor="C00000" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="4B4B0A" fgColor="C00000" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="00FF00" bgColor="6699CC" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="445257" bgColor="112435" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="E0E2E4" bgColor="3F4B4E" fontName="" fontStyle="0" fontSize="" />
@@ -792,8 +792,8 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold" styleID="0" fgColor="6A8088" bgColor="2F383C" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="6A8088" fontStyle="0" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="343F41" bgColor="343F41" fontSize="" fontStyle="0" />
-        <WidgetStyle name="White space symbol" styleID="0" fgColor="55676F" bgColor="3476A3" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="646400" fgColor="C0C0C0" fontStyle="0" />
+        <WidgetStyle name="White space symbol" styleID="0" fgColor="445359" bgColor="3476A3" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="55550A" fgColor="C0C0C0" fontStyle="0" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF00FF" fgColor="C0C0C0" fontSize="" fontStyle="1" />
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="AEC4CE" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00E811" fgColor="E0E2E4" fontStyle="0" />
