@@ -92,7 +92,7 @@ Notepad++ Custom Style
         <LexerType name="bash" desc="bash" ext="pri pro">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ERROR" styleID="1" fgColor="FFC6C6" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">win32 android unix linux else isEmpty count split</WordsStyle>
+            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">win32 android unix linux else isEmpty count split equals</WordsStyle>
             <WordsStyle name="NUMBER" styleID="3" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="5" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="6" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -137,7 +137,7 @@ Notepad++ Custom Style
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1">npos begin end size insert erase clear push_back emplace_back sleep_for bind push make_shared make_unique get at pop_back pop_front remove capacity find find_if abs substr length back duration_cast now count strcmp override move notify_all notify_one fetch_add wait unlock async launch wait_for valid hardware_concurrency set_value static_pointer_cast dynamic_pointer_cast c_str empty get_future lock allocate_shared deallocate connect stop release acquire forward front join</WordsStyle>
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const packaged_task promise basic_string allocator lock_guard allocator_traits QString signals QTranslator atomic_bool QQuickView QObject QAction QToolButton QErrorMessage QLabel QListWidget QGraphicsView QList QMap QMutex QHash QVariant QSharedPointer QHash QSize QByteArray QWaitCondition QQueue null</WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="7BAFE3" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1">std string vector list shared_ptr unique_ptr pair map unordered_map unordered_set set chrono seconds this_thread deque array function milliseconds tuple endl ostringstream time_since_epoch system_clock exception cout cin weak_ptr atomic thread mutex condition_variable unique_lock future_status ready deferred timeout QTimer future time_point filesystem path const packaged_task promise basic_string allocator lock_guard allocator_traits QString signals QTranslator atomic_bool QQuickView QObject QAction QToolButton QErrorMessage QLabel QListWidget QGraphicsView QList QMap QMutex QHash QVariant QSharedPointer QHash QSize QByteArray QWaitCondition QQueue null stringstream QThread QVector QSemaphore QScopedPointer copy back_inserter</WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -546,7 +546,7 @@ Notepad++ Custom Style
             <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FF66CC" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFVAL" styleID="4" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-        <LexerType name="python" desc="Python" ext="gradle">
+        <LexerType name="python" desc="Python" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="778C95" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="2" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
