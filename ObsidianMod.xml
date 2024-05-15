@@ -325,8 +325,8 @@ Notepad++ Custom Style
         <LexerType name="java" desc="Java" ext="aidl">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="E0E2E4" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="7BAFE3" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="00D535" bgColor="293134" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -731,11 +731,11 @@ Notepad++ Custom Style
             <WordsStyle name="NUMBER" styleID="5" fgColor="FFCD22" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
             <WordsStyle name="SINGLESTRING" styleID="7" fgColor="FF9A35" bgColor="293134" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
-            <WordsStyle name="TAG" styleID="1" fgColor="7BAFE3" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="TAGEND" styleID="11" fgColor="7BAFE3" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="7BAFE3" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="B3B689" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="B3B689" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="TAG" styleID="1" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="TAGEND" styleID="11" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="6DAFF1" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="B171F2" bgColor="293134" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="SGMLDEFAULT" styleID="21" fgColor="D39745" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CDATA" styleID="17" fgColor="D5E6F0" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ENTITY" styleID="10" fgColor="FF66CC" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
@@ -778,7 +778,7 @@ Notepad++ Custom Style
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="8" />
+        <WidgetStyle name="Global override" styleID="0" fgColor="E0E2E4" bgColor="293134" fontName="Iosevka" fontStyle="0" fontSize="9" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="E0E2E4" bgColor="293134" fontName="Consolas" fontStyle="0" fontSize="8" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="394448" bgColor="293134" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFFF00" bgColor="000000" fontName="" fontStyle="1" fontSize="" />
@@ -812,9 +812,9 @@ Notepad++ Custom Style
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="4D5C62" fgColor="E0E2E4" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="93975E" fgColor="FFCAB0" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="00A6FF" bgColor="8000FF" fontStyle="0" />
-        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="EBEBEB" bgColor="008000" fontStyle="0" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" bgColor="0080FF" fontStyle="0" />
-        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
+        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="C0C0C0" bgColor="008000" fontStyle="0" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="0070DF" bgColor="0080FF" fontStyle="0" />
+        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="000000" bgColor="C0C0C0" fontStyle="0" />
         <WidgetStyle name="URL hovered" styleID="0" fgColor="FFFFFF" fontStyle="0" />
         <WidgetStyle name="Document map" styleID="0" fgColor="E0E2E4" bgColor="293134" />
         <WidgetStyle name="EOL custom color" styleID="0" fgColor="808080" />
