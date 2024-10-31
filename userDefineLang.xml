@@ -164,12 +164,12 @@
             <WordsStyle name="COMMENTS" fgColor="778C95" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="778C95" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="FFCD22" bgColor="1E1E1E" colorStyle="1" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="569CD6" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS2" fgColor="569CD6" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="7BAFFF" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="7BAFFF" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="4EC9B0" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="B171F2" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="4EC9B0" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS6" fgColor="569CD6" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="7BAFFF" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="00D535" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="B5CEA8" bgColor="1E1E1E" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="FF66CC" bgColor="1E1E1E" colorStyle="1" fontStyle="1" nesting="0" />
