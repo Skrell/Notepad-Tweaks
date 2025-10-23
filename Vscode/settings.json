@@ -63,7 +63,11 @@
             "rgba(79,236,236,0.07)"  // ...and so on
         ],
         "indentRainbow.errorColor": "rgba(128,32,32,0.6)", // Color for error indentation
-        "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)" // Color for mixed tabs and spaces
+        "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)", // Color for mixed tabs and spaces
+        "activityBar.background": "#0B350B",
+        "titleBar.activeBackground": "#104B0F",
+        "titleBar.activeForeground": "#F4FDF4",
+        "bookmarks.overviewRuler": "#00000000"
     },
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "activeDocumentIndicator.opacity": 85,
@@ -73,7 +77,7 @@
     "editor.fontFamily": "Consolas, monospace",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "extensions.supportUntrustedWorkspaces": {
-        
+
 
     },
     "textmarker.commandsOnContextMenu": {
@@ -97,4 +101,8 @@
     ],
     "json.schemas": [],
     "textmarker.savedHighlights": [],
+    "files.trimTrailingWhitespace": true,
+    "persistent-highlighter.caseSensitive": true,
+    "persistent-highlighter.visibleRangeBuffer": 2000,
+    "workbench.startupEditor": "none",
 }
