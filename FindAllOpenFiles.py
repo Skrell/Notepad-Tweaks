@@ -19,7 +19,7 @@ def sendAltO():
 # Open Find dialog.
 # Notepad++ will typically pre-fill the Find field from selection/current word.
 notepad.menuCommand(MENUCOMMAND.SEARCH_FIND)  # Ctrl+F equivalent
-time.sleep(0.05)
+time.sleep(0.125)
 
 # Trigger "Find All in All Opened Documents" via the dialog accelerator (Alt+O).
 sendAltO()
